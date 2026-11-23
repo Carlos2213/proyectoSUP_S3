@@ -1,0 +1,3 @@
+Nombre: Carlos Quispe
+Curso: 3-D
+Descripción: Este proyecto es una demostración práctica del uso de Visual Studio Code, Python y Git para organizar, editar y publicar código.
